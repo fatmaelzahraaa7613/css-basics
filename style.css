@@ -38,7 +38,7 @@ body {
 code {
     color: #ce234c;
     background-color: lightgray;
-    
+
 }
 
 .snippet {
@@ -47,9 +47,9 @@ code {
 
 #font-practice {
     font-style: italic;
-    
+
     color: green;
-    
+
     font-size: 16px;
     font-family: arial;
 }
